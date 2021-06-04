@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DumpsterDiver",
+			"path": "..\\DumpsterDiver"
+		}
+	],
+	"settings": {}
+}
